@@ -1,0 +1,26 @@
+{
+	"author" : {
+		"Simon Jefford" : "si@ibrokethat.com",
+		"Christos Constandinou" : "constantology@gmail.com"
+	},
+	"dependencies" : {
+		"co" : "x"
+	},
+	"devDependencies" : {
+	},
+	"engines" : {
+		"node" : "0.11.x",
+		"npm" : "1.4.x"
+	},
+	"license" : [ {
+		"type" : "MIT",
+		"url" : "https://raw.github.com/super-useful/su-apiserver/master/LICENSE"
+	} ],
+	"name" : "co-thunkify",
+	"main" : "index.js",
+	"repository" : {
+		"type" : "git",
+		"url" : "git@github.com:super-useful/su-apiserver.git"
+	},
+	"version" : "0.0.1"
+}
