@@ -8,6 +8,7 @@
 	},
 	"devDependencies" : {
 	},
+	"description" : "super useful way to thunkify generator functions to tidy up your mocha tests.",
 	"engines" : {
 		"node" : "0.11.x",
 		"npm" : "1.4.x"
