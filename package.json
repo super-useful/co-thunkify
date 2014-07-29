@@ -23,5 +23,5 @@
 		"type" : "git",
 		"url" : "git@github.com:super-useful/su-apiserver.git"
 	},
-	"version" : "0.0.1"
+	"version" : "0.0.2"
 }
