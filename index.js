@@ -5,6 +5,8 @@ module.exports = function cothunkify( fn ) {
 		var ctx = this;
 		co.wrap( function* () {
 			yield fn.call( ctx );
-		} )( done );
+
+			done();
+		} )();
 	};
 };
